@@ -1,0 +1,132 @@
+SINGLE MACHINE LICENSES
+
+PixelMetrics grants you a license to use one copy of this
+software on any one hardware product.
+
+SITE LICENSES
+
+PixelMetrics grants you a license to use one copy of this
+software on any one hardware product for as many
+licenses as you purchase.
+
+30-DAY TRIAL LICENSES
+
+PixelMetrics grants you a license to use one copy of this
+software on any one hardware product for an evaluation
+period of 30 days, after which time you must pay
+for the software or uninstall it.
+
+"Use" means storing, loading, installing, executing or displaying
+the SOFTWARE. You may not modify the SOFTWARE or disable
+any licensing or control features of the SOFTWARE except as an
+intended part of the SOFTWARE's programming features.
+
+OWNERSHIP.
+The SOFTWARE is owned and copyrighted by PixelMetrics. 
+Your license confers no title or ownership in the SOFTWARE 
+and should not be construed as a sale of any right in the
+SOFTWARE. 
+
+COPYRIGHT.
+The SOFTWARE is protected by United States copyright law 
+and international treaty provisions. You acknowledge that no 
+title to the intellectual property in the SOFTWARE is transferred 
+to you. You further acknowledge that title and full ownership 
+rights to the SOFTWARE will remain the exclusive property of
+PixelMetrics and you will not acquire any rights to the 
+SOFTWARE except as expressly set forth in this license. You 
+agree that any copies of the SOFTWARE will contain the same 
+proprietary notices which appear on and in the SOFTWARE. 
+
+UNAUTHORIZED USE.
+You may not use, copy, rent, lease, sell, modify, decompile,
+disassemble, otherwise reverse engineer, or transfer the
+SOFTWARE except as provided in this agreement. Any such
+unauthorized use shall result in immediate and automatic
+termination of this license.
+
+U.S. GOVERNMENT INFORMATION.
+Use, duplication, or disclosure by the
+U.S. Government of the computer software and
+documentation in this package shall be subject to restrictions as
+set forth in subparagraph (c)(1)(ii) of the Rights in Technical
+Data and Computer Software clause at DFARS 252.277-7013
+(Oct 1988) and FAR 52.227-19 (Jun 1987). The Contractor is
+PixelMetrics, Arvada CO.
+
+LIMITED WARRANTY.
+THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS.
+PIXELMETRICS DISCLAIMS ALL WARRANTIES
+RELATING TO THIS SOFTWARE, WHETHER EXPRESSED
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY
+IMPLIED WARRANTIES OF MERCHANTABILITY OR
+FITNESS FOR A PARTICULAR PURPOSE. NEITHER
+PIXELMETRICS NOR ANYONE ELSE WHO HAS BEEN
+INVOLVED IN THE CREATION, PRODUCTION, OR
+DELIVERY OF THIS SOFTWARE SHALL BE LIABLE FOR
+ANY INDIRECT, CONSEQUENTIAL, OR INCIDENTAL
+DAMAGES ARISING OUT OF THE USE OR INABILITY TO
+USE SUCH SOFTWARE, EVEN IF PIXELMETRICS HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES OR CLAIMS. THE PERSON USING THE
+SOFTWARE BEARS ALL RISK AS TO THE QUALITY AND
+PERFORMANCE OF THE SOFTWARE.
+
+SOME JURISDICTIONS DO NOT ALLOW LIMITATION OR 
+EXCLUSION OF INCIDENTAL OR CONSEQUENTIAL 
+DAMAGES, SO THE ABOVE LIMITATIONS OR
+EXCLUSION MAY NOT APPLY TO YOU TO THE EXTENT 
+THAT LIABILITY IS BY LAW INCAPABLE OF
+EXCLUSION OR RESTRICTION.
+
+IN NO EVENT SHALL ANY THEORY OF LIABILITY
+EXCEED THE LICENSE FEE PAID TO PIXELMETRICS. 
+
+SEVERABILITY.
+In the event of invalidity of any provision of this license, the 
+parties agree that such invalidity shall not affect the validity of
+the remaining portions of this license. 
+
+LIABILITY.
+NO LIABILITY FOR CONSEQUENTIAL DAMAGES. IN NO
+EVENT SHALL PIXELMETRIC OR ITS SUPPLIERS BE
+LIABLE TO YOU FOR ANY CONSEQUENTIAL, SPECIAL,
+INCIDENTAL OR INDIRECT DAMAGES OF ANY KIND 
+ARISING OUT OF THE DELIVERY, PERFORMANCE OR 
+USE OF THE SOFTWARE, EVEN IF PIXELMETRICS HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGES. IN NO EVENT WILL PIXELMETRICS 
+LIABILITY FOR ANY CLAIM, WHETHER IN CONTRACT,
+TORT OR ANY OTHER THEORY OF LIABILITY, EXCEED 
+THE LICENSE FEE PAID BY YOU, IF ANY. 
+
+GOVERNING LAW.
+This agreement shall be governed by the laws of the State of 
+Colorado excluding the application of its conflicts of law rules 
+and shall inure to the benefit of PixelMetrics and any successors, 
+administrators, heirs and assigns. Any action or proceeding
+brought by either party against the other arising out of or related 
+to this agreement shall be brought only in a STATE or 
+FEDERAL COURT of competent jurisdiction located in 
+Jefferson County, Colorado. The parties hereby agree to the
+jurisdiction of said courts. The United Nations
+Convention on Contracts for the International Sale of Goods is 
+specifically disclaimed. 
+
+INSPECTION AND TESTING.
+You agree and acknowledge that you will thoroughly inspect and 
+test the SOFTWARE for all of your purposes upon 
+commencement of your use. Any suit or other legal action, claim 
+or any arbitration relating in any way to this agreement or 
+software covered by it must be officially filed or officially
+commenced no later than three months (90 days) after your first 
+use of the software. 
+
+ENTIRE AGREEMENT. 
+This is the entire agreement between you and PixelMetrics which 
+supersedes any prior agreement or understanding, whether 
+written or oral, relating to the subject matter of this license.
+
+RESERVED RIGHTS. 
+All rights not expressly granted here are reserved to
+PixelMetrics.
